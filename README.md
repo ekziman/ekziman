@@ -1,6 +1,6 @@
 [Мой сайт](https://eline-music.ru)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekziman&layout=compact)](https://github.com/ekziman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekziman&langs_count=6&layout=compact)](https://github.com/ekziman)
 
 
 <details>
